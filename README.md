@@ -17,10 +17,6 @@ Simple script for get  convert or know the exchange rate of your currency.
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Jonathanbez/rates_app">
   </a>
   
-  <a href="https://github.com/EliasGcf/readme-template/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/EliasGcf/readme-template">
-  </a>
-  
   <img alt="GitHub" src="https://img.shields.io/github/license/EliasGcf/readme-template">
 </p>
 
