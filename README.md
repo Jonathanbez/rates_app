@@ -44,139 +44,34 @@ Simple script for get  convert or know the exchange rate of your currency.
 
 Technologies that I used to develop this api
 
-- [Node.js](https://nodejs.org/en/)
-- [ReactJS](https://reactjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [React Native](https://reactnative.dev/)
-- [Expo](https://expo.io/)
-- [Express](https://expressjs.com/pt-br/)
-- [TypeORM](https://typeorm.io/#/)
-- [Celebrate](https://github.com/arb/celebrate)
-- [Sequelize](https://sequelize.org/)
-- [PostgreSQL](https://www.postgresql.org/)
-- [SQLite](https://www.sqlite.org/)
-- [Jest](https://jestjs.io/)
-- [SuperTest](https://github.com/visionmedia/supertest)
-- [Nodemon](https://nodemon.io/)
-- [Sucrase](https://github.com/alangpierce/sucrase)
-- [React Router DOM](https://reacttraining.com/react-router/)
-- [React Navigation](https://reactnavigation.org/)
-- [React Icons](https://react-icons.netlify.com/#/)
-- [UnForm](https://unform.dev/) [💜](https://rocketseat.com.br/)
-- [Styled Components](https://styled-components.com/)
-- [Axios](https://github.com/axios/axios)
-- [Eslint](https://eslint.org/)
-- [Prettier](https://prettier.io/)
-- [EditorConfig](https://editorconfig.org/)
+- [Ruby](https://ruby-doc.org/)
 
 ## 💻 Getting started
 
-Import the `Insomnia.json` on Insomnia App or click on [Run in Insomnia](#insomniaButton) button
-
 ### Requirements
 
-- [Node.js](https://nodejs.org/en/)
-- [Yarn](https://classic.yarnpkg.com/) or [npm](https://www.npmjs.com/)
-- One instance of [PostgreSQL](https://www.postgresql.org/)
+- git (just clone this repo)
+- ruby 2.5.1
+- bundler (`gem install bundler`)
+- conta no [Fixer](https://fixer.io/#pricing_plan)
+- OS Linux (only test on Ubuntu 23.10)
 
-**Clone the project and access the folder**
-
+## Começando
 ```bash
-$ git clone https://github.com/EliasGcf/NOME_DO_REPO.git && cd NOME_DO_REPO
+#clone o projeto
+git clone https://github.com/adrianoavelino/projeto-ruby-puro-onebitcode.git
+
+#entre no diretório
+cd projeto-ruby-puro-onebitcode
+
+#instale as dependências
+bundle install
+
+#execute o app
+ruby app.rb
 ```
 
-**Follow the steps below**
-
-### Backend
-
-```bash
-# Starting from the project root folder, go to backend folder
-$ cd backend
-
-# Install the dependencies
-$ yarn
-
-# Create the instance of postgreSQL using docker
-$ docker run --name project-postgres -e POSTGRES_PASSWORD=docker -p 5432:5432 -d postgres
-
-# Make sure the keys in 'ormconfig.json' to connect with your database
-# are set up correctly.
-
-# Once the services are running, run the migrations
-$ yarn typeorm migration:run
-
-# To finish, run the api service
-$ yarn dev:server
-
-# Well done, project is started!
-```
-
-### Web
-
-_Obs.: Before to continue, be sure to have the API running_
-
-```bash
-# Starting from the project root folder, go to frontend folder
-$ cd frontend
-
-# Install the dependencies
-$ yarn
-
-# Be sure the file 'src/services/api.ts' have the IP to your API
-
-# Start the client
-$ yarn start
-```
-
-### Mobile
-
-_Obs.: Before to continue, be sure to have the API running_
-
-```bash
-# Starting from the project root folder, go to mobile folder
-$ cd mobile
-
-# Install the dependencies
-$ yarn
-
-# Be sure the file 'src/services/api.ts' have the IP to your API
-
-# If you are going to emulate with android, run this command
-# Be sure to have the emulator open
-$ yarn android
-
-# If you are going to emulate with ios, run this command
-$ yarn ios
-```
-
-## 🤔 How to contribute
-
-**Make a fork of this repository**
-
-```bash
-# Fork using GitHub official command line
-# If you don't have the GitHub CLI, use the web site to do that.
-
-$ gh repo fork EliasGcf/NOME_DO_REPO
-```
-
-**Follow the steps below**
-
-```bash
-# Clone your fork
-$ git clone your-fork-url && cd NOME_DO_REPO
-
-# Create a branch with your feature
-$ git checkout -b my-feature
-
-# Make the commit with your changes
-$ git commit -m 'feat: My new feature'
-
-# Send the code to your remote branch
-$ git push origin my-feature
-```
-
-After your pull request is merged, you can delete your branch
+[![Imagem da aplicação de linha de comando em execução no youtube](./img/projeto-ruby-puro.gif)](https://www.youtube.com/watch?v=405zS5PAL3U)
 
 ## 📝 License
 
@@ -184,4 +79,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with 💜 &nbsp;by Elias Gabriel 👋 &nbsp;[See my linkedin](https://www.linkedin.com/in/eliasgcf/)
+Made with 💜 &nbsp;by Jonathan Bezerra 👋 &nbsp;[See my linkedin](https://www.linkedin.com/in/jonathan-bezerra-b483b6148/)
