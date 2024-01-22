@@ -1,11 +1,6 @@
 # rates_app
 Simple script for get  convert or know the exchange rate of your currency.
 
-<h1 align="center">
-	<!-- <img alt="Logo" src=".github/logo.png" width="200px" /> -->
-  Application Logo
-</h1>
-
 <h3 align="center">
   Title or one short slogan.
 </h3>
