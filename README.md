@@ -1,5 +1,4 @@
 # rates_app
-Simple script for get  convert or know the exchange rate of your currency.
 
 <h3 align="center">
   Title or one short slogan.
@@ -38,7 +37,7 @@ Simple script for get  convert or know the exchange rate of your currency.
 
 ## 👨🏻‍💻 About the project
 
-- <p style="color: red;">Brief explanation about the project</p>
+- <p style="color: red;">Simple script for get convert or know the exchange rate of your currency.</p>
 
 ## 🚀 Technologies
 
@@ -58,17 +57,17 @@ Technologies that I used to develop this api
 
 ## Começando
 ```bash
-#clone o projeto
-git clone https://github.com/adrianoavelino/projeto-ruby-puro-onebitcode.git
+#clone the project
+git clone https://github.com/Jonathanbez/rates_app.git
 
-#entre no diretório
-cd projeto-ruby-puro-onebitcode
+#enter the directory
+cd rates-app
 
-#instale as dependências
+#install dependencies
 bundle install
 
-#execute o app
-ruby app.rb
+#execute 
+ruby rates_app.rb
 ```
 
 [![Imagem da aplicação de linha de comando em execução no youtube](./img/projeto-ruby-puro.gif)](https://www.youtube.com/watch?v=405zS5PAL3U)
