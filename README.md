@@ -1,7 +1,5 @@
-# rates_app
-
 <h3 align="center">
-  Title or one short slogan.
+  RATES APP
 </h3>
 
 <p align="center">
