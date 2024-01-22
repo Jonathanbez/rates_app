@@ -6,7 +6,7 @@ Simple script for get  convert or know the exchange rate of your currency.
 </h3>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/EliasGcf/readme-template">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/count/Jonathanbez/rates_app">
 
   <a href="https://www.linkedin.com/in/eliasgcf/">
     <img alt="Made by" src="https://img.shields.io/badge/made%20by-Elias%20Gabriel-gree">
