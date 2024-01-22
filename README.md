@@ -13,8 +13,8 @@ Simple script for get  convert or know the exchange rate of your currency.
  </a>
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/Jonathanbez/rates_app">
   
-  <a href="https://github.com/EliasGcf/readme-template/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EliasGcf/readme-template">
+  <a href="https://github.com/Jonathanbez/rates_app">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Jonathanbez/rates_app">
   </a>
   
   <a href="https://github.com/EliasGcf/readme-template/issues">
