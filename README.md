@@ -12,7 +12,8 @@ Simple script for get  convert or know the exchange rate of your currency.
     <img alt="Made by" src="https://img.shields.io/badge/made%20by-Elias%20Gabriel-gree">
   </a>
   
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/EliasGcf/readme-template">
+  <img alt="Repository size" src="https://img.shields.io/github/languages/code-size/:user/https%3A%2F%2Fgithub.com%2FJonathanbez%2Frates_app
+">
   
   <a href="https://github.com/EliasGcf/readme-template/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EliasGcf/readme-template">
