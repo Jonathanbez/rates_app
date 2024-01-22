@@ -8,9 +8,9 @@ Simple script for get  convert or know the exchange rate of your currency.
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/count/Jonathanbez/rates_app">
 
-
+ <a href="https://www.linkedin.com/in/jonathan-bezerra-b483b6148/">
   <img alt="Made by" src="https://img.shields.io/badge/Made%20by%20_-%20Jonathanbez---?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjonathan-bezerra-b483b6148%2F">
-  
+ </a>
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/Jonathanbez/rates_app">
   
   <a href="https://github.com/EliasGcf/readme-template/commits/master">
