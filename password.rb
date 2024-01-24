@@ -12,5 +12,5 @@ def get_password
             password << char.chr
             end
         end
-    password
+    password.chomp
 end
