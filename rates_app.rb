@@ -13,7 +13,7 @@ puts t_up
 
 puts "Put your API KEY of Fixer:"
 api_key = get_password
-puts "\n\n"
+puts "\n"
 
 def convert_or_know_exchange_rate(api_key)
     uri = URI("http://data.fixer.io/api/latest?access_key=#{api_key}&base=EUR")
@@ -54,9 +54,9 @@ def convert_or_know_exchange_rate(api_key)
 end
 
 loop do
-    convert_or_know_exchange_rate(get_password)
-
-    puts "Do you want to perform another conversion? (y/n): "
-    response = gets.chomp.downcase
-    break unless response == 'y'
+    convert_or_know_exchange_rate(api_key)
+    prompt2 = TTY::Prompt.new
+        option = ['YES','NO']
+    select2 = prompt2.select("Do you want to perform another conversion?", option)
+    break if select2 == 'NO'
 end
