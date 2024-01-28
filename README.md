@@ -15,8 +15,6 @@
   </a>
   
   
-
-
 <p align="center">
   <a href="#-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -33,7 +31,7 @@
 
 ## 🚀 Technologies
 
-Technologies that I used to develop this api
+Technologies that I used to develop this software:
 
 - [Ruby](https://ruby-doc.org/)
 
@@ -44,7 +42,7 @@ Technologies that I used to develop this api
 - git (just clone this repo)
 - ruby 2.5.1
 - bundler (`gem install bundler`)
-- conta no [Fixer](https://fixer.io/#pricing_plan)
+- ccount on [Fixer](https://fixer.io/#pricing_plan)
 - OS Linux (only test on Ubuntu 23.10)
 
 ## Começando
