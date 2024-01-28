@@ -7,15 +7,12 @@ require_relative 'password'
 
 system 'clear'
 
-title = "Convert or know exchange rate\n\n"
+title = "Convert or know exchange rate\n"
 t_up = title.upcase
 puts t_up
 
-puts "Put your API KEY of Fixer:"
-api_key = get_password
-puts "\n"
-
 def convert_or_know_exchange_rate(api_key)
+    system 'clear'
     uri = URI("http://data.fixer.io/api/latest?access_key=#{api_key}&base=EUR")
     response = Net::HTTP.get(uri)
 
@@ -49,14 +46,20 @@ def convert_or_know_exchange_rate(api_key)
             puts "Invalid or incomplete response from the API. Please check your API key and try again."
         end
     else
+        system 'clear'
         puts "API returned an error: #{parsed_response['error']['info']}"
     end
 end
 
 loop do
+    puts "\nPut your API KEY of Fixer:"
+    api_key = get_password
+    puts "\n"
     convert_or_know_exchange_rate(api_key)
     prompt2 = TTY::Prompt.new
         option = ['YES','NO']
-    select2 = prompt2.select("Do you want to perform another conversion?", option)
+        question = "\nDo you want to try again?"
+        question_up = question.upcase
+    select2 = prompt2.select(question_up, option)
     break if select2 == 'NO'
 end
