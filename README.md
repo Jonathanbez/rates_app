@@ -3,7 +3,7 @@
 </h3>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/count/Jonathanbez/rates_app">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Jonathanbez/rates_app?color=%23FF0000">
 
  <a href="https://www.linkedin.com/in/jonathan-bezerra-b483b6148/">
   <img alt="Made by" src="https://img.shields.io/badge/Made%20by%20_-%20Jonathanbez---?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjonathan-bezerra-b483b6148%2F">
@@ -14,21 +14,13 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Jonathanbez/rates_app">
   </a>
   
-  <img alt="GitHub" src="https://img.shields.io/github/license/EliasGcf/readme-template">
-</p>
-
+  
 <p align="center">
   <a href="#-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-license">License</a>
-</p>
-
-<p id="insomniaButton" align="center">
-  <a href="" target="_blank">
-    <img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia">
-  </a>
 </p>
 
 <img alt="Layout" src="https://res.cloudinary.com/eliasgcf/image/upload/v1586302738/assets/previewApp_fnt7hm.png">
@@ -39,7 +31,7 @@
 
 ## 🚀 Technologies
 
-Technologies that I used to develop this api
+Technologies that I used to develop this software:
 
 - [Ruby](https://ruby-doc.org/)
 
@@ -50,7 +42,7 @@ Technologies that I used to develop this api
 - git (just clone this repo)
 - ruby 2.5.1
 - bundler (`gem install bundler`)
-- conta no [Fixer](https://fixer.io/#pricing_plan)
+- ccount on [Fixer](https://fixer.io/#pricing_plan)
 - OS Linux (only test on Ubuntu 23.10)
 
 ## Começando
