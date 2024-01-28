@@ -14,8 +14,8 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Jonathanbez/rates_app">
   </a>
   
-  <img alt="GitHub" src="https://img.shields.io/github/license/EliasGcf/readme-template">
-</p>
+  
+
 
 <p align="center">
   <a href="#-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
