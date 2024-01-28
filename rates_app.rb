@@ -7,7 +7,7 @@ require_relative 'password'
 
 system 'clear'
 
-title = "Convert or know exchange rate\n"
+title = "Convert or know exchange rate\git n"
 t_up = title.upcase
 puts t_up
 
