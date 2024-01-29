@@ -42,7 +42,7 @@ Technologies that I used to develop this software:
 - git (just clone this repo)
 - ruby 2.5.1
 - bundler (`gem install bundler`)
-- ccount on [Fixer](https://fixer.io/#pricing_plan)
+- account on Fixer(https://fixer.io/#pricing_plan)
 - OS Linux (only test on Ubuntu 23.10)
 
 #### follow the steps:
