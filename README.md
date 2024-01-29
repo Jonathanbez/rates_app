@@ -40,7 +40,7 @@ Technologies that I used to develop this software:
 ### Requirements
 
 - git (just clone this repo)
-- ruby 2.5.1
+- ruby 2.5.1 +
 - bundler (`gem install bundler`)
 - account on Fixer(https://fixer.io/#pricing_plan)
 - OS Linux (only test on Ubuntu 23.10)
@@ -59,8 +59,6 @@ bundle install
 #execute 
 ruby rates_app.rb
 ```
-
-[![Imagem da aplicação de linha de comando em execução no youtube](./img/projeto-ruby-puro.gif)](https://www.youtube.com/watch?v=405zS5PAL3U)
 
 ## 📝 License
 
