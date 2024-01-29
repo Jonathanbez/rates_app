@@ -15,7 +15,7 @@ def convert_or_know_exchange_rate(api_key)
     begin
         parsed_response = JSON.parse(response)
     rescue JSON::ParserError
-        puts "Error parsing the API response. Please check your API key and try again."
+        puts "Error parsing the API response."
         return
     end
 
