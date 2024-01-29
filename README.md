@@ -45,7 +45,7 @@ Technologies that I used to develop this software:
 - ccount on [Fixer](https://fixer.io/#pricing_plan)
 - OS Linux (only test on Ubuntu 23.10)
 
-## Começando
+#### follow the steps:
 ```bash
 #clone the project
 git clone https://github.com/Jonathanbez/rates_app.git
