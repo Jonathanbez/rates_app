@@ -23,7 +23,7 @@
   <a href="#-license">License</a>
 </p>
 
-<img alt="Layout" src="https://res.cloudinary.com/eliasgcf/image/upload/v1586302738/assets/previewApp_fnt7hm.png">
+[![Imagem da aplicação de linha de comando em execução no youtube](./img/rates_app 2024-01-28 22-26-10.gif)]
 
 ## 👨🏻‍💻 About the project
 
