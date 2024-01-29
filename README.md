@@ -23,7 +23,7 @@
   <a href="#-license">License</a>
 </p>
 
-[![Imagem da aplicação de linha de comando em execução no youtube](./img/rates_app 2024-01-28 22-26-10.gif)]
+![Imagem da execução da aplicação](./img/rates_app.gif)
 
 ## 👨🏻‍💻 About the project
 
